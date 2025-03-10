@@ -1,0 +1,7 @@
+.lead__image_bottom {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
