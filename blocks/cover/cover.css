@@ -1,6 +1,6 @@
 .cover{
     height: 640px;
-    background: url(../../images/cover/__background.png) no-repeat;
+    background: url(../../images/cover/__background.jpg) no-repeat;
     background-size: cover;
     margin: 92px 0 auto 0;
 }
